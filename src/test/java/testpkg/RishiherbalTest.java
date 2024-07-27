@@ -9,7 +9,6 @@ import pagepkg.RishiherbalPage;
 
 public class RishiherbalTest {
 	
-	public class FBForgotpassTest { 
 		  WebDriver driver; 
 		  @BeforeTest 
 		  public void setup() 
@@ -30,7 +29,6 @@ public class RishiherbalTest {
 		   ob.wishlistClick(); 
 		  } 
 		    
-		  } 
 		}
 
 
