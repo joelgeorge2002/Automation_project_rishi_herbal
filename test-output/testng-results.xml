@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-27T20:43:11 IST" name="Default suite" finished-at="2024-07-27T20:43:31 IST" duration-ms="20137">
+    <groups>
+    </groups>
+    <test started-at="2024-07-27T20:43:11 IST" name="Default test" finished-at="2024-07-27T20:43:31 IST" duration-ms="20137">
+      <class name="testpkg.RishiherbalTest$FBForgotpassTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testpkg.RishiherbalTest$FBForgotpassTest@5ab956d7]" started-at="2024-07-27T20:43:11 IST" name="setup" finished-at="2024-07-27T20:43:22 IST" duration-ms="10314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:testpkg.RishiherbalTest$FBForgotpassTest@5ab956d7]" started-at="2024-07-27T20:43:22 IST" name="test" finished-at="2024-07-27T20:43:31 IST" duration-ms="9786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testpkg.RishiherbalTest$FBForgotpassTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
